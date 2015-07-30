@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "moment": "2.3.x",
+    "typogr": "0.5.x",
+    "underscore": "1.4.x"
+  },
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "private": "true",
+  "devDependencies": {
+    "gh-pages": "^0.3.1"
+  }
+}
