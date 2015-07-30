@@ -5,7 +5,8 @@
     "underscore": "1.4.x"
   },
   "scripts": {
-    "deploy": "gh-pages -d dist"
+    "predeploy": "wintersmith build",
+    "deploy": "gh-pages -d build"
   },
   "private": "true",
   "devDependencies": {
