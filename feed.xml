@@ -5,13 +5,40 @@
     <atom:link href="http://parentprogramming.xyz/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://parentprogramming.xyz</link>
     <description>The Podcast about Parenting in the Tech Industry</description>
-    <pubDate>Wed, 29 Jul 2015 19:00:00 -0500</pubDate>
+    <pubDate>Mon, 27 Jul 2015 19:00:00 -0500</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
     <item>
+      <title>Episode 4 with Garth Braithwaite</title>
+      <link>http://parentprogramming.xyz/articles/episode-4/</link>
+      <pubDate>Mon, 27 Jul 2015 19:00:00 -0500</pubDate>
+      <guid isPermaLink="true">http://parentprogramming.xyz/articles/episode-4/</guid>
+      <author></author>
+      <description>&lt;p&gt;Garth Braithwaite joins us to talk about parenting as a remote employee.&lt;/p&gt;
+&lt;iframe src=&quot;https://media.signalleaf.com/player/Parent-Programming/55b7ce6518ae8a0300fa8acf/&quot; width=&quot;500&quot; height=&quot;70&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>Episode 3 with Derick Bailey</title>
+      <link>http://parentprogramming.xyz/articles/episode-3/</link>
+      <pubDate>Sun, 05 Jul 2015 19:00:00 -0500</pubDate>
+      <guid isPermaLink="true">http://parentprogramming.xyz/articles/episode-3/</guid>
+      <author></author>
+      <description>&lt;p&gt;Derick Bailey joins to talk about his kids and how fortunate he was to find a way to pursue his Entrepreneurship while being a parent of young kids. Find Derick at &lt;a href=&quot;http://derickbailey.com&quot;&gt;derickbailey.com&lt;/a&gt;, &lt;a href=&quot;http://watchmecode.net&quot;&gt;watchmecode.net&lt;/a&gt; and on Twitter at &lt;a href=&quot;http://twitter.com/derickbailey&quot;&gt;@derickbailey&lt;/a&gt;.&lt;/p&gt;
+&lt;iframe src=&quot;https://media.signalleaf.com/player/Parent-Programming/559b2f083619e80300f12787/&quot; width=&quot;500&quot; height=&quot;70&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>Episode 2 with Joel Taddei</title>
+      <link>http://parentprogramming.xyz/articles/episode-2/</link>
+      <pubDate>Mon, 15 Jun 2015 19:00:00 -0500</pubDate>
+      <guid isPermaLink="true">http://parentprogramming.xyz/articles/episode-2/</guid>
+      <author></author>
+      <description>&lt;p&gt;Joel Taddei joins to talk about making the transition to the tech sector, finding time to be with kids and why it’s important to be with your kids, instead of your phone. &lt;/p&gt;
+&lt;iframe src=&quot;https://media.signalleaf.com/player/Parent-Programming/5580aed9e66f7f030014cbf5/&quot; width=&quot;500&quot; height=&quot;70&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
       <title>Episode 1 with Kent C. Dodds</title>
       <link>http://parentprogramming.xyz/articles/episode-1/</link>
-      <pubDate>Wed, 29 Jul 2015 19:00:00 -0500</pubDate>
+      <pubDate>Wed, 03 Jun 2015 19:00:00 -0500</pubDate>
       <guid isPermaLink="true">http://parentprogramming.xyz/articles/episode-1/</guid>
       <author></author>
       <description>&lt;p&gt;The inaugural episode with Kent C. Dodds; a parent, husband and programmer living in Utah. He hosts &lt;a href=&quot;http://angular-air.com/&quot;&gt;Angular Air&lt;/a&gt;, a live weekly video broadcast and podcast about AngularJS.&lt;/p&gt;
@@ -22,7 +49,7 @@
     <item>
       <title>A Very, Very Short History</title>
       <link>http://parentprogramming.xyz/articles/hello-world/</link>
-      <pubDate>Tue, 16 Jun 2015 19:00:00 -0500</pubDate>
+      <pubDate>Sun, 31 May 2015 19:00:00 -0500</pubDate>
       <guid isPermaLink="true">http://parentprogramming.xyz/articles/hello-world/</guid>
       <author></author>
       <description>&lt;p&gt;&lt;a href=&quot;https://twitter.com/parentprogpod/status/606669516001689600&quot;&gt;Parent Programming’s first episode aired on June 4th&lt;/a&gt; and was a lot of fun. The response from listeners has been very positive and it’s great to share parenting stories across the tech industry.&lt;/p&gt;
